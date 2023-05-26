@@ -1,6 +1,6 @@
 {
     "appName": {
-        "message": "SummChat-summary to chat by ChatGPT"
+        "message": "Talk to AI-summary to chat by ChatGPT"
     },
     "appDesc": {
         "message": "Powered by ChatGPT, offers contextual chatting on a summary, with translation and continue functions."
