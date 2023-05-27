@@ -1,5 +1,5 @@
 # Talk-to-AI 🤖
-**Talk to AI** is a powerful chrome extension that enhances your browsing experience by providing summarized insights and facilitating interactive conversations about the web content. With this extension, you can delve deep into the essence of web pages using **ChatGPT**, engage in dialogue, and gain a comprehensive understanding of the material. 
+**Talk to AI** is a powerful chrome extension that enhances your browsing experience by providing summarized insights and facilitating interactive conversations about the web content. Using **ChatGPT**, you may go deep into the substance of web pages, engage in discourse, and obtain a full grasp of the topic. 
 
 # For Example:-
 <img src="ayush.png">
