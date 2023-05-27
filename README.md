@@ -3,8 +3,8 @@
 
 # How to install locally in you chrome browser
 * Download Source Code from **Releases** section.
-* Then visit [chrome://extensions/](chrome://extensions/) in your chrome browser.
-* [An Internal Link](/guides/content/editing-an-existing-page)
+* Then visit [An Internal Link](/guides/content/editing-an-existing-page) in your chrome browser.
+* 
 
 
 # For Example:-
