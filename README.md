@@ -12,4 +12,4 @@
 # For Example:-
 <img src="ayush.png">
 <br>
-<p style="align:center"> Made with ❤️ by Ayush Jain </p>
+<p align="center"> Made with ❤️ by Ayush Jain </p>
