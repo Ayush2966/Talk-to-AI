@@ -11,5 +11,5 @@
 
 # For Example:-
 <img src="ayush.png">
-<br>
+<hr>
 <p align="center"> Made with ❤️ by Ayush Jain </p>
