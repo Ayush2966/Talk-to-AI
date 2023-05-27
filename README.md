@@ -11,4 +11,5 @@
 
 # For Example:-
 <img src="ayush.png">
-* Made with ❤️ by Ayush Jain
+<br>
+<center> Made with ❤️ by Ayush Jain </center>
