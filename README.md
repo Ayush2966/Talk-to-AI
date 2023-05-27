@@ -6,9 +6,9 @@
 * Then visit **chrome://extensions/** in your chrome browser and switch to developer mode.
 * Then click on load unpacked and upload the downloaded folder (Source Code).
 * So, yeah the extension is ready to use.
-* Enjoy!!
+
 
 
 # For Example:-
 <img src="ayush.png">
-** Made with ❤️ by Ayush Jain
+* Made with ❤️ by Ayush Jain
