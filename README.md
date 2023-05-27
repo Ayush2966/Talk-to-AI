@@ -3,7 +3,7 @@
 
 # How to install locally in you chrome browser
 * Download Source Code from **Releases** section.
-* 
+* Then visit chrome://extensions/ in your chrome browser.
 
 
 # For Example:-
